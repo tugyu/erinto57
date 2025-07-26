@@ -1,0 +1,6 @@
+Az 1, 2, 3, 4, 5 számjegyek különböző sorrendjeivel ötjegyű számokat készítünk. Van-e közöttük 9 különböző szám, amelyek beírhatók egy 3 × 3-as táblázatba úgy, hogy minden sorban és minden oszlopban ugyanaz lesz a három szám összege?
+
+https://ematlap.hu/hettusa-2026/1557-hettusa-9-fordulo-2025-junius
+
+Problem Description
+The task is to determine if it's possible to form a special 3x3 grid, a semi-magic square, where only the row and column sums are required to be equal using numbers generated from permutations of the digits 1, 2, 3, 4, and 5.
